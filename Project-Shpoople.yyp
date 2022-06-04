@@ -1,6 +1,7 @@
 {
   "resources": [
-    {"id":{"name":"player_ship_export","path":"sprites/player_ship_export/player_ship_export.yy",},"order":0,},
+    {"id":{"name":"s_player_ship","path":"sprites/s_player_ship/s_player_ship.yy",},"order":0,},
+    {"id":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
