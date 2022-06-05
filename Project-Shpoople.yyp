@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"order":0,},
+    {"id":{"name":"o_window","path":"objects/o_window/o_window.yy",},"order":1,},
     {"id":{"name":"s_player_ship","path":"sprites/s_player_ship/s_player_ship.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
